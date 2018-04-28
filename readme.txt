@@ -4,3 +4,4 @@ Git by zhangjuwei
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Git add merge
+Git bug dev
