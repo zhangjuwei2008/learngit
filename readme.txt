@@ -1,1 +1,2 @@
- git init Initialized empty Git repository in D:\learngit
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
